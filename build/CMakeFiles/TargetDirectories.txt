@@ -1,0 +1,3 @@
+/Users/aryan/desktop/OpenCVTest/build/CMakeFiles/FaceDetection.dir
+/Users/aryan/desktop/OpenCVTest/build/CMakeFiles/edit_cache.dir
+/Users/aryan/desktop/OpenCVTest/build/CMakeFiles/rebuild_cache.dir
