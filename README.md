@@ -1,9 +1,3 @@
-Certainly! Here's a PDF version of the README content for your FaceDetection project:
-
-Face Detection and Identification using OpenCV and C++
-
-Overview:
-This project implements real-time face detection and identification using OpenCV and C++. It utilizes the Haar Cascade classifier for face detection and template matching for identification against reference images.
 
 Installation:
 
