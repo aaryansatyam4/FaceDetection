@@ -1,5 +1,5 @@
 CMakeFiles/FaceDetection.dir/main.cpp.o: \
-  /Users/aryan/desktop/OpenCVTest/main.cpp \
+  /Users/aryan/Desktop/OpenCVTest/opencv/FaceDetection/main.cpp \
   /opt/homebrew/Cellar/opencv/4.9.0_12/include/opencv4/opencv2/opencv.hpp \
   /opt/homebrew/Cellar/opencv/4.9.0_12/include/opencv4/opencv2/opencv_modules.hpp \
   /opt/homebrew/Cellar/opencv/4.9.0_12/include/opencv4/opencv2/core.hpp \

@@ -54,10 +54,10 @@ RM = /opt/homebrew/Cellar/cmake/3.30.0/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/aryan/desktop/OpenCVTest
+CMAKE_SOURCE_DIR = /Users/aryan/Desktop/OpenCVTest/opencv/FaceDetection
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/aryan/desktop/OpenCVTest/build
+CMAKE_BINARY_DIR = /Users/aryan/Desktop/OpenCVTest/opencv/FaceDetection/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/FaceDetection.dir/clean
 CMakeFiles/FaceDetection.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FaceDetection.dir/build.make CMakeFiles/FaceDetection.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FaceDetection.dir/build.make CMakeFiles/FaceDetection.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/aryan/desktop/OpenCVTest/build/CMakeFiles --progress-num=1,2 "Built target FaceDetection"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/aryan/Desktop/OpenCVTest/opencv/FaceDetection/build/CMakeFiles --progress-num=1,2 "Built target FaceDetection"
 .PHONY : CMakeFiles/FaceDetection.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/FaceDetection.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/aryan/desktop/OpenCVTest/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/aryan/Desktop/OpenCVTest/opencv/FaceDetection/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/FaceDetection.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/aryan/desktop/OpenCVTest/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/aryan/Desktop/OpenCVTest/opencv/FaceDetection/build/CMakeFiles 0
 .PHONY : CMakeFiles/FaceDetection.dir/rule
 
 # Convenience name for target.
