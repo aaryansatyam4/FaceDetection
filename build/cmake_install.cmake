@@ -1,4 +1,4 @@
-# Install script for directory: /Users/aryan/desktop/OpenCVTest
+# Install script for directory: /Users/aryan/Desktop/OpenCVTest/opencv/FaceDetection
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/Users/aryan/desktop/OpenCVTest/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/Users/aryan/Desktop/OpenCVTest/opencv/FaceDetection/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
